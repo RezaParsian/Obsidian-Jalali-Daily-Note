@@ -1,0 +1,11 @@
+{
+	"id": "rp-jalali",
+	"name": "Rp Jalali",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "Make Daily Notes in jalali version",
+	"author": "RezaParsian",
+	"authorUrl": "https://rp76.ir",
+	"fundingUrl": "https://rp76.ir",
+	"isDesktopOnly": false
+}
