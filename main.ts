@@ -1,7 +1,7 @@
 import {Notice, Plugin} from 'obsidian';
 import * as jalaali from 'jalaali-js';
 
-export default class MyPlugin extends Plugin {
+export default class RpJalali extends Plugin {
 	async onload() {
 		this.addRibbonIcon('calendar', 'ایجاد یادداشت روزانه شمسی', async (evt: MouseEvent) => {
 			try {

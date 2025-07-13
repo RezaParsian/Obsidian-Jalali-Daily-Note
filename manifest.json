@@ -1,7 +1,7 @@
 {
 	"id": "rp-jalali",
 	"name": "Rp Jalali",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"minAppVersion": "0.15.0",
 	"description": "Make Daily Notes in jalali version",
 	"author": "RezaParsian",
